@@ -4,8 +4,11 @@
 
 ## 🎬 Dashboard Video Demo
 
-Watch the complete walkthrough of my PVR Movie Booking Analytics Tableau dashboard.
-▶️ **[Click here to watch the dashboard video](screenshots/video.mp4)**
+
+Watch the complete walkthrough of the PVR Movie Booking Analytics Tableau dashboard.
+
+▶️ **[Click here to watch the dashboard video](https://youtu.be/veqIBBCprtA)**
+
  
 
 ## 🖼️ Dashboard Preview
